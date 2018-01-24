@@ -7,7 +7,7 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
 /**
  * --------------------------------------------------------------------------
  * Bootstrap (v4.0.0): dropdown.js
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ * Licensed under MIT (https://github.com/isaiah-king/bootstrap/blob/master/LICENSE)
  * --------------------------------------------------------------------------
  */
 var Dropdown = function ($) {
@@ -155,7 +155,7 @@ var Dropdown = function ($) {
           }
         } // If boundary is not `scrollParent`, then set position to `static`
         // to allow the menu to "escape" the scroll parent's boundaries
-        // https://github.com/twbs/bootstrap/issues/24251
+        // https://github.com/isaiah-king/bootstrap/issues/24251
 
 
         if (this._config.boundary !== 'scrollParent') {

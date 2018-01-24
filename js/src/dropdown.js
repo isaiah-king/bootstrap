@@ -5,7 +5,7 @@ import Util from './util'
 /**
  * --------------------------------------------------------------------------
  * Bootstrap (v4.0.0): dropdown.js
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ * Licensed under MIT (https://github.com/isaiah-king/bootstrap/blob/master/LICENSE)
  * --------------------------------------------------------------------------
  */
 
@@ -168,7 +168,7 @@ const Dropdown = (($) => {
 
         // If boundary is not `scrollParent`, then set position to `static`
         // to allow the menu to "escape" the scroll parent's boundaries
-        // https://github.com/twbs/bootstrap/issues/24251
+        // https://github.com/isaiah-king/bootstrap/issues/24251
         if (this._config.boundary !== 'scrollParent') {
           $(parent).addClass(ClassName.POSITION_STATIC)
         }

@@ -38,8 +38,8 @@
 
 Several quick start options are available:
 
-- [Download the latest release.](https://github.com/twbs/bootstrap/archive/v4.0.0.zip)
-- Clone the repo: `git clone https://github.com/twbs/bootstrap.git`
+- [Download the latest release.](https://github.com/isaiah-king/bootstrap/archive/v4.0.0.zip)
+- Clone the repo: `git clone https://github.com/isaiah-king/bootstrap.git`
 - Install with [npm](https://www.npmjs.com/): `npm install bootstrap`
 - Install with [yarn](https://yarnpkg.com/): `yarn add bootstrap@4.0.0`
 - Install with [Composer](https://getcomposer.org/): `composer require twbs/bootstrap:4.0.0`
@@ -58,8 +58,8 @@ Read the [Getting started page](https://getbootstrap.com/docs/4.0/getting-starte
 [![NuGet](https://img.shields.io/nuget/vpre/bootstrap.svg)](https://www.nuget.org/packages/bootstrap/absoluteLatest)
 [![peerDependencies Status](https://img.shields.io/david/peer/twbs/bootstrap.svg)](https://david-dm.org/twbs/bootstrap?type=peer)
 [![devDependency Status](https://img.shields.io/david/dev/twbs/bootstrap.svg)](https://david-dm.org/twbs/bootstrap?type=dev)
-[![CSS gzip size](http://img.badgesize.io/twbs/bootstrap/v4-dev/dist/css/bootstrap.min.css?compression=gzip&label=CSS+gzip+size)](https://github.com/twbs/bootstrap/tree/v4-dev/dist/css/bootstrap.min.css)
-[![JS gzip size](http://img.badgesize.io/twbs/bootstrap/v4-dev/dist/js/bootstrap.min.js?compression=gzip&label=JS+gzip+size)](https://github.com/twbs/bootstrap/tree/v4-dev/dist/js/bootstrap.min.js)
+[![CSS gzip size](http://img.badgesize.io/twbs/bootstrap/v4-dev/dist/css/bootstrap.min.css?compression=gzip&label=CSS+gzip+size)](https://github.com/isaiah-king/bootstrap/tree/v4-dev/dist/css/bootstrap.min.css)
+[![JS gzip size](http://img.badgesize.io/twbs/bootstrap/v4-dev/dist/js/bootstrap.min.js?compression=gzip&label=JS+gzip+size)](https://github.com/isaiah-king/bootstrap/tree/v4-dev/dist/js/bootstrap.min.js)
 
 [![Sauce Labs Test Status](https://saucelabs.com/browser-matrix/bootstrap.svg)](https://saucelabs.com/u/bootstrap)
 
@@ -94,7 +94,7 @@ We provide compiled CSS and JS (`bootstrap.*`), as well as compiled and minified
 
 ## Bugs and feature requests
 
-Have a bug or a feature request? Please first read the [issue guidelines](https://github.com/twbs/bootstrap/blob/master/CONTRIBUTING.md#using-the-issue-tracker) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/twbs/bootstrap/issues/new).
+Have a bug or a feature request? Please first read the [issue guidelines](https://github.com/isaiah-king/bootstrap/blob/master/CONTRIBUTING.md#using-the-issue-tracker) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/isaiah-king/bootstrap/issues/new).
 
 
 ## Documentation
@@ -118,16 +118,16 @@ Learn more about using Jekyll by reading its [documentation](https://jekyllrb.co
 - For v2.3.2: <https://getbootstrap.com/2.3.2/>
 - For v3.3.x: <https://getbootstrap.com/docs/3.3/>
 
-[Previous releases](https://github.com/twbs/bootstrap/releases) and their documentation are also available for download.
+[Previous releases](https://github.com/isaiah-king/bootstrap/releases) and their documentation are also available for download.
 
 
 ## Contributing
 
-Please read through our [contributing guidelines](https://github.com/twbs/bootstrap/blob/master/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
+Please read through our [contributing guidelines](https://github.com/isaiah-king/bootstrap/blob/master/CONTRIBUTING.md). Included are directions for opening issues, coding standards, and notes on development.
 
-Moreover, if your pull request contains JavaScript patches or features, you must include [relevant unit tests](https://github.com/twbs/bootstrap/tree/master/js/tests). All HTML and CSS should conform to the [Code Guide](https://github.com/mdo/code-guide), maintained by [Mark Otto](https://github.com/mdo).
+Moreover, if your pull request contains JavaScript patches or features, you must include [relevant unit tests](https://github.com/isaiah-king/bootstrap/tree/master/js/tests). All HTML and CSS should conform to the [Code Guide](https://github.com/mdo/code-guide), maintained by [Mark Otto](https://github.com/mdo).
 
-Editor preferences are available in the [editor config](https://github.com/twbs/bootstrap/blob/master/.editorconfig) for easy use in common text editors. Read more and download plugins at <http://editorconfig.org/>.
+Editor preferences are available in the [editor config](https://github.com/isaiah-king/bootstrap/blob/master/.editorconfig) for easy use in common text editors. Read more and download plugins at <http://editorconfig.org/>.
 
 
 ## Community
@@ -146,7 +146,7 @@ Get updates on Bootstrap's development and chat with the project maintainers and
 
 For transparency into our release cycle and in striving to maintain backward compatibility, Bootstrap is maintained under [the Semantic Versioning guidelines](http://semver.org/). Sometimes we screw up, but we'll adhere to those rules whenever possible.
 
-See [the Releases section of our GitHub project](https://github.com/twbs/bootstrap/releases) for changelogs for each release version of Bootstrap. Release announcement posts on [the official Bootstrap blog](https://blog.getbootstrap.com/) contain summaries of the most noteworthy changes made in each release.
+See [the Releases section of our GitHub project](https://github.com/isaiah-king/bootstrap/releases) for changelogs for each release version of Bootstrap. Release announcement posts on [the official Bootstrap blog](https://blog.getbootstrap.com/) contain summaries of the most noteworthy changes made in each release.
 
 
 ## Creators
@@ -164,4 +164,4 @@ See [the Releases section of our GitHub project](https://github.com/twbs/bootstr
 
 ## Copyright and license
 
-Code and documentation copyright 2011-2018 the [Bootstrap Authors](https://github.com/twbs/bootstrap/graphs/contributors) and [Twitter, Inc.](https://twitter.com) Code released under the [MIT License](https://github.com/twbs/bootstrap/blob/master/LICENSE). Docs released under [Creative Commons](https://github.com/twbs/bootstrap/blob/master/docs/LICENSE).
+Code and documentation copyright 2011-2018 the [Bootstrap Authors](https://github.com/isaiah-king/bootstrap/graphs/contributors) and [Twitter, Inc.](https://twitter.com) Code released under the [MIT License](https://github.com/isaiah-king/bootstrap/blob/master/LICENSE). Docs released under [Creative Commons](https://github.com/isaiah-king/bootstrap/blob/master/docs/LICENSE).

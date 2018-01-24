@@ -1,6 +1,7 @@
 {
-  "name": "twbs/bootstrap",
-  "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
+  "name": "isaiah-king/bootstrap",
+  "description":
+    "The most popular front-end framework for developing responsive, mobile first projects on the web.",
   "keywords": [
     "css",
     "js",
@@ -23,7 +24,7 @@
     }
   ],
   "support": {
-    "issues": "https://github.com/twbs/bootstrap/issues"
+    "issues": "https://github.com/isaiah-king/bootstrap/issues"
   },
   "license": "MIT",
   "extra": {

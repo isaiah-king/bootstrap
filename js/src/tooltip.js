@@ -5,7 +5,7 @@ import Util from './util'
 /**
  * --------------------------------------------------------------------------
  * Bootstrap (v4.0.0): tooltip.js
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ * Licensed under MIT (https://github.com/isaiah-king/bootstrap/blob/master/LICENSE)
  * --------------------------------------------------------------------------
  */
 

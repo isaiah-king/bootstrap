@@ -11,7 +11,7 @@ permalink:      pretty
 # Server
 source:         "."
 destination:    ./_gh_pages
-host:           0.0.0.0
+host:           localhost
 port:           9001
 baseurl:        ""
 url:            "https://getbootstrap.com"
@@ -54,7 +54,7 @@ social_logo_path:   /assets/brand/bootstrap-social-logo.png
 current_version:      4.0.0
 current_ruby_version: 4.0.0
 docs_version:         4.0
-repo:                 "https://github.com/twbs/bootstrap"
+repo:                 "https://github.com/isaiah-king/bootstrap"
 slack:                "https://bootstrap-slack.herokuapp.com"
 blog:                 "https://blog.getbootstrap.com"
 expo:                 "https://expo.getbootstrap.com"
@@ -62,8 +62,8 @@ jobs:                 "https://jobs.getbootstrap.com"
 themes:               "https://themes.getbootstrap.com"
 
 download:
-  source:           "https://github.com/twbs/bootstrap/archive/v4.0.0.zip"
-  dist:             "https://github.com/twbs/bootstrap/releases/download/v4.0.0/bootstrap-4.0.0-dist.zip"
+  source:           "https://github.com/isaiah-king/bootstrap/archive/v4.0.0.zip"
+  dist:             "https://github.com/isaiah-king/bootstrap/releases/download/v4.0.0/bootstrap-4.0.0-dist.zip"
 
 cdn:
   # See https://www.srihash.org for info on how to generate the hashes

@@ -70,7 +70,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
-  jekyll (~> 3.7.0)
+  jekyll (~> 3.5)
   jekyll-redirect-from (~> 0.13.0)
   jekyll-sitemap (~> 1.1.1)
   jekyll-toc (~> 0.5.1)

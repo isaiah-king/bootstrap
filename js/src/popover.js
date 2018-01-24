@@ -4,7 +4,7 @@ import Tooltip from './tooltip'
 /**
  * --------------------------------------------------------------------------
  * Bootstrap (v4.0.0): popover.js
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ * Licensed under MIT (https://github.com/isaiah-king/bootstrap/blob/master/LICENSE)
  * --------------------------------------------------------------------------
  */
 

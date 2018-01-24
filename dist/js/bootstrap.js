@@ -1,7 +1,7 @@
 /*!
   * Bootstrap v4.0.0 (https://getbootstrap.com)
-  * Copyright 2011-2018 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)
-  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+  * Copyright 2011-2018 The Bootstrap Authors (https://github.com/isaiah-king/bootstrap/graphs/contributors)
+  * Licensed under MIT (https://github.com/isaiah-king/bootstrap/blob/master/LICENSE)
   */
 (function (global, factory) {
 	typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports, require('jquery'), require('popper.js')) :
@@ -55,7 +55,7 @@ function _inheritsLoose(subClass, superClass) {
 /**
  * --------------------------------------------------------------------------
  * Bootstrap (v4.0.0): util.js
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ * Licensed under MIT (https://github.com/isaiah-king/bootstrap/blob/master/LICENSE)
  * --------------------------------------------------------------------------
  */
 
@@ -183,7 +183,7 @@ var Util = function ($$$1) {
 /**
  * --------------------------------------------------------------------------
  * Bootstrap (v4.0.0): alert.js
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ * Licensed under MIT (https://github.com/isaiah-king/bootstrap/blob/master/LICENSE)
  * --------------------------------------------------------------------------
  */
 
@@ -355,7 +355,7 @@ var Alert = function ($$$1) {
 /**
  * --------------------------------------------------------------------------
  * Bootstrap (v4.0.0): button.js
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ * Licensed under MIT (https://github.com/isaiah-king/bootstrap/blob/master/LICENSE)
  * --------------------------------------------------------------------------
  */
 
@@ -518,7 +518,7 @@ var Button = function ($$$1) {
 /**
  * --------------------------------------------------------------------------
  * Bootstrap (v4.0.0): carousel.js
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ * Licensed under MIT (https://github.com/isaiah-king/bootstrap/blob/master/LICENSE)
  * --------------------------------------------------------------------------
  */
 
@@ -1017,7 +1017,7 @@ var Carousel = function ($$$1) {
 /**
  * --------------------------------------------------------------------------
  * Bootstrap (v4.0.0): collapse.js
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ * Licensed under MIT (https://github.com/isaiah-king/bootstrap/blob/master/LICENSE)
  * --------------------------------------------------------------------------
  */
 
@@ -1386,7 +1386,7 @@ var Collapse = function ($$$1) {
 /**
  * --------------------------------------------------------------------------
  * Bootstrap (v4.0.0): dropdown.js
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ * Licensed under MIT (https://github.com/isaiah-king/bootstrap/blob/master/LICENSE)
  * --------------------------------------------------------------------------
  */
 
@@ -1535,7 +1535,7 @@ var Dropdown = function ($$$1) {
           }
         } // If boundary is not `scrollParent`, then set position to `static`
         // to allow the menu to "escape" the scroll parent's boundaries
-        // https://github.com/twbs/bootstrap/issues/24251
+        // https://github.com/isaiah-king/bootstrap/issues/24251
 
 
         if (this._config.boundary !== 'scrollParent') {
@@ -1857,7 +1857,7 @@ var Dropdown = function ($$$1) {
 /**
  * --------------------------------------------------------------------------
  * Bootstrap (v4.0.0): modal.js
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ * Licensed under MIT (https://github.com/isaiah-king/bootstrap/blob/master/LICENSE)
  * --------------------------------------------------------------------------
  */
 
@@ -2433,7 +2433,7 @@ var Modal = function ($$$1) {
 /**
  * --------------------------------------------------------------------------
  * Bootstrap (v4.0.0): tooltip.js
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ * Licensed under MIT (https://github.com/isaiah-king/bootstrap/blob/master/LICENSE)
  * --------------------------------------------------------------------------
  */
 
@@ -3098,7 +3098,7 @@ var Tooltip = function ($$$1) {
 /**
  * --------------------------------------------------------------------------
  * Bootstrap (v4.0.0): popover.js
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ * Licensed under MIT (https://github.com/isaiah-king/bootstrap/blob/master/LICENSE)
  * --------------------------------------------------------------------------
  */
 
@@ -3291,7 +3291,7 @@ var Popover = function ($$$1) {
 /**
  * --------------------------------------------------------------------------
  * Bootstrap (v4.0.0): scrollspy.js
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ * Licensed under MIT (https://github.com/isaiah-king/bootstrap/blob/master/LICENSE)
  * --------------------------------------------------------------------------
  */
 
@@ -3602,7 +3602,7 @@ var ScrollSpy = function ($$$1) {
 /**
  * --------------------------------------------------------------------------
  * Bootstrap (v4.0.0): tab.js
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ * Licensed under MIT (https://github.com/isaiah-king/bootstrap/blob/master/LICENSE)
  * --------------------------------------------------------------------------
  */
 
@@ -3849,7 +3849,7 @@ var Tab = function ($$$1) {
 /**
  * --------------------------------------------------------------------------
  * Bootstrap (v4.0.0-alpha.6): index.js
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ * Licensed under MIT (https://github.com/isaiah-king/bootstrap/blob/master/LICENSE)
  * --------------------------------------------------------------------------
  */
 

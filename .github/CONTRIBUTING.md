@@ -13,7 +13,7 @@ patches and features.
 
 ## Using the issue tracker
 
-The [issue tracker](https://github.com/twbs/bootstrap/issues) is
+The [issue tracker](https://github.com/isaiah-king/bootstrap/issues) is
 the preferred channel for [bug reports](#bug-reports), [features requests](#feature-requests)
 and [submitting pull requests](#pull-requests), but please respect the following
 restrictions:
@@ -47,7 +47,7 @@ Our bug tracker utilizes several labels to help organize and identify issues. He
 - `js` - Issues stemming from our compiled or source JavaScript files.
 - `meta` - Issues with the project itself or our GitHub repository.
 
-For a complete look at our labels, see the [project labels page](https://github.com/twbs/bootstrap/labels).
+For a complete look at our labels, see the [project labels page](https://github.com/isaiah-king/bootstrap/labels).
 
 
 ## Bug reports
@@ -58,7 +58,7 @@ Good bug reports are extremely helpful, so thanks!
 Guidelines for bug reports:
 
 0. **Validate and lint your code** &mdash; [validate your HTML](https://html5.validator.nu/)
-   and [lint your HTML](https://github.com/twbs/bootlint) to ensure your
+   and [lint your HTML](https://github.com/isaiah-king/bootlint) to ensure your
    problem isn't caused by a simple error in your own code.
 
 1. **Use the GitHub issue search** &mdash; check if the issue has already been
@@ -111,7 +111,7 @@ When feasible, we aim to report such upstream bugs to the relevant browser vendo
 
 ### Issues bots
 
-[@twbs-lmvtfy](https://github.com/twbs-lmvtfy) is a Bootstrap bot that hangs out in our GitHub issue tracker and automatically checks for HTML validation errors in live examples (e.g. jsFiddles, JS Bins, Bootplys, Plunks, CodePens, etc.) posted in issue comments. If it finds any errors, it will post a follow-up comment on the issue and point out the errors. If this happens with an example you've posted, please fix the errors and post an updated live example. If you opened a bug report, please check whether the bug still occurs with your revised, valid live example. If the bug no longer occurs, it was probably due to your invalid HTML rather than something in Bootstrap and we'd appreciate it if you could close out the GitHub issue.
+[@twbs-lmvtfy](https://github.com/isaiah-king-lmvtfy) is a Bootstrap bot that hangs out in our GitHub issue tracker and automatically checks for HTML validation errors in live examples (e.g. jsFiddles, JS Bins, Bootplys, Plunks, CodePens, etc.) posted in issue comments. If it finds any errors, it will post a follow-up comment on the issue and point out the errors. If this happens with an example you've posted, please fix the errors and post an updated live example. If you opened a bug report, please check whether the bug still occurs with your revised, valid live example. If the bug no longer occurs, it was probably due to your invalid HTML rather than something in Bootstrap and we'd appreciate it if you could close out the GitHub issue.
 
 
 ## Feature requests
@@ -139,12 +139,12 @@ project (indentation, accurate comments, etc.) and any other requirements
 
 **Do not edit `bootstrap.css`, or `bootstrap.js`
 directly!** Those files are automatically generated. You should edit the
-source files in [`/bootstrap/scss/`](https://github.com/twbs/bootstrap/tree/master/scss)
-and/or [`/bootstrap/js/`](https://github.com/twbs/bootstrap/tree/master/js) instead.
+source files in [`/bootstrap/scss/`](https://github.com/isaiah-king/bootstrap/tree/master/scss)
+and/or [`/bootstrap/js/`](https://github.com/isaiah-king/bootstrap/tree/master/js) instead.
 
 Similarly, when contributing to Bootstrap's documentation, you should edit the
 documentation source files in
-[the `/bootstrap/docs/` directory of the `master` branch](https://github.com/twbs/bootstrap/tree/master/docs).
+[the `/bootstrap/docs/` directory of the `master` branch](https://github.com/isaiah-king/bootstrap/tree/master/docs).
 **Do not edit the `gh-pages` branch.** That branch is generated from the
 documentation source files and is managed separately by the Bootstrap Core Team.
 
@@ -160,7 +160,7 @@ included in the project:
    # Navigate to the newly cloned directory
    cd bootstrap
    # Assign the original repo to a remote called "upstream"
-   git remote add upstream https://github.com/twbs/bootstrap.git
+   git remote add upstream https://github.com/isaiah-king/bootstrap.git
    ```
 
 2. If you cloned a while ago, get the latest changes from upstream:
@@ -206,12 +206,12 @@ includes code changes) and under the terms of the
 
 ### Pull request bots
 
-[@twbs-rorschach](https://github.com/twbs-rorschach) is a Bootstrap bot that hangs out in our GitHub issue tracker and automatically checks all pull requests for a few simple common mistakes. It's possible that Rorschach might leave a comment on your pull request and then close it. If that happens, simply fix the problem(s) mentioned in the comment (there should be link(s) in the comment explaining the problem(s) in detail) and then either:
+[@twbs-rorschach](https://github.com/isaiah-king-rorschach) is a Bootstrap bot that hangs out in our GitHub issue tracker and automatically checks all pull requests for a few simple common mistakes. It's possible that Rorschach might leave a comment on your pull request and then close it. If that happens, simply fix the problem(s) mentioned in the comment (there should be link(s) in the comment explaining the problem(s) in detail) and then either:
 
 * Push the revised version to your pull request's branch and post a comment on the pull request saying that you've fixed the problem(s). One of the Bootstrap Core Team members will then come along and reopen your pull request.
 * Or you can just open a new pull request for your revised version.
 
-[@twbs-savage](https://github.com/twbs-savage) is a Bootstrap bot that automatically runs cross-browser tests (via [Sauce](https://saucelabs.com/) and Travis CI) on JavaScript pull requests. Savage will leave a comment on pull requests stating whether cross-browser JS tests passed or failed, with a link to the full Travis build details. If your pull request fails, check the Travis log to see which browser + OS combinations failed. Each browser test in the Travis log includes a link to a Sauce page with details about the test. On those details pages, you can watch a screencast of the test run to see exactly which unit tests failed.
+[@twbs-savage](https://github.com/isaiah-king-savage) is a Bootstrap bot that automatically runs cross-browser tests (via [Sauce](https://saucelabs.com/) and Travis CI) on JavaScript pull requests. Savage will leave a comment on pull requests stating whether cross-browser JS tests passed or failed, with a link to the full Travis build details. If your pull request fails, check the Travis log to see which browser + OS combinations failed. Each browser test in the Travis log includes a link to a Sauce page with details about the test. On those details pages, you can watch a screencast of the test run to see exactly which unit tests failed.
 
 
 ## Code guidelines

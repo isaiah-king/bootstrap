@@ -1,14 +1,14 @@
 Before opening an issue:
 
-- [Search for duplicate or closed issues](https://github.com/twbs/bootstrap/issues?utf8=%E2%9C%93&q=is%3Aissue)
-- [Validate](https://html5.validator.nu/) and [lint](https://github.com/twbs/bootlint#in-the-browser) any HTML to avoid common problems
+- [Search for duplicate or closed issues](https://github.com/isaiah-king/bootstrap/issues?utf8=%E2%9C%93&q=is%3Aissue)
+- [Validate](https://html5.validator.nu/) and [lint](https://github.com/isaiah-king/bootlint#in-the-browser) any HTML to avoid common problems
 - Prepare a [reduced test case](https://css-tricks.com/reduced-test-cases/) for any bugs
-- Read the [contributing guidelines](https://github.com/twbs/bootstrap/blob/master/CONTRIBUTING.md)
+- Read the [contributing guidelines](https://github.com/isaiah-king/bootstrap/blob/master/CONTRIBUTING.md)
 
 When asking general "how to" questions:
 
 - Please do not open an issue here
-- Instead, ask for help on [StackOverflow, IRC, or Slack](https://github.com/twbs/bootstrap/blob/master/README.md#community)
+- Instead, ask for help on [StackOverflow, IRC, or Slack](https://github.com/isaiah-king/bootstrap/blob/master/README.md#community)
 
 When reporting a bug, include:
 

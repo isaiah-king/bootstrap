@@ -12,7 +12,7 @@
     "web"
   ],
   "homepage": "https://getbootstrap.com",
-  "author": "The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)",
+  "author": "The Bootstrap Authors (https://github.com/isaiah-king/bootstrap/graphs/contributors)",
   "contributors": [
     "Twitter, Inc."
   ],
@@ -73,10 +73,10 @@
   "main": "dist/js/bootstrap",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/twbs/bootstrap.git"
+    "url": "git+https://github.com/isaiah-king/bootstrap.git"
   },
   "bugs": {
-    "url": "https://github.com/twbs/bootstrap/issues"
+    "url": "https://github.com/isaiah-king/bootstrap/issues"
   },
   "license": "MIT",
   "dependencies": {},
